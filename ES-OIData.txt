@@ -1,5 +1,5 @@
-S&P 500 (ES|ES) EW3N6 (0.28 DTE) vs 7495.25 (-82.5) - Open Interest
-Put: 881,295  Call: 322,258  Vol: 29.72  Vol Chg: 11.39  Future Chg: -82.5
+S&P 500 (ES|ES) EW3N6 (0.27 DTE) vs 7493.5 (-84.25) - Open Interest
+Put: 881,295  Call: 322,258  Vol: 29.69  Vol Chg: 11.18  Future Chg: -84.25
 Strike,Call,Put,Vol Settle
 7315,0,98,0
 7320,14,719,0
@@ -74,4 +74,3 @@ Strike,Call,Put,Vol Settle
 7665,872,14,0.12255035145790316
 7670,1509,33,0.1233387051615864
 7675,2931,410,0.12453433481277898
-7680,2332,3,0.12616812804481015
