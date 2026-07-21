@@ -1,5 +1,5 @@
-Gold (OG|GC) G3TN6 (0.05 DTE) vs 4081.7 (+65.8) - Open Interest
-Put: 2,420  Call: 2,252  Vol: 19.87  Vol Chg: -5.84  Future Chg: 65.8
+Gold (OG|GC) G3TN6 (0.05 DTE) vs 4081.1 (+65.2) - Open Interest
+Put: 2,420  Call: 2,252  Vol: 19.94  Vol Chg: -5.77  Future Chg: 65.2
 Strike,Call,Put,Vol Settle
 4055,14,2,0.24595057304031798
 4060,88,0,0.24720204093318898
@@ -12,4 +12,3 @@ Strike,Call,Put,Vol Settle
 4095,103,2,0.26944807111794944
 4100,310,2,0.2746068239430315
 4105,12,0,0.2802673558217066
-4110,2,1,0.28642954367023776
