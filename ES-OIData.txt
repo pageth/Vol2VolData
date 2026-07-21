@@ -1,4 +1,4 @@
-S&P 500 (ES|ES) E3BN6 (0.49 DTE) vs 7518.75 (+34.5) - Open Interest
+S&P 500 (ES|ES) E3BN6 (0.48 DTE) vs 7518.75 (+34.5) - Open Interest
 Put: 208,241  Call: 55,395  Vol: 16.55  Vol Chg: -0.11  Future Chg: 34.5
 Strike,Call,Put,Vol Settle
 7385,1,374,0.2007189033611212
