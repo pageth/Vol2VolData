@@ -1,4 +1,4 @@
-S&P 500 (ES|ES) E4CN6 (0.93 DTE) vs 7542.75 (+58.5) - Intraday Volume
+S&P 500 (ES|ES) E4CN6 (0.87 DTE) vs 7542.75 (+58.5) - Intraday Volume
 Put: 32,464  Call: 33,715  Vol: 11.70  Vol Chg: -1.89  Future Chg: 58.5
 Strike,Call,Put,Vol Settle
 7415,6,645,0.1785994489036966
@@ -53,4 +53,3 @@ Strike,Call,Put,Vol Settle
 7660,25,0,0
 7665,0,0,0
 7670,30,0,0
-7675,0,0,0
