@@ -1,5 +1,5 @@
-Gold (OG|GC) G4WN6 (0.33 DTE) vs 4124.2 (+47.8) - Intraday Volume
-Put: 839  Call: 764  Vol: 23.68  Vol Chg: 0.00  Future Chg: 47.8
+Gold (OG|GC) G4WN6 (0.33 DTE) vs 4124 (+47.6) - Intraday Volume
+Put: 841  Call: 764  Vol: 23.68  Vol Chg: 0.00  Future Chg: 47.6
 Strike,Call,Put,Vol Settle
 4040,0,10,0.2546064079251664
 4045,0,17,0.25113931944360957
