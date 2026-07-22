@@ -1,7 +1,6 @@
-Gold (OG|GC) G4RN6 (0.82 DTE) vs 4135 (+58.6) - Intraday Volume
+Gold (OG|GC) G4RN6 (0.77 DTE) vs 4135 (+58.6) - Intraday Volume
 Put: 1,349  Call: 1,303  Vol: 20.88  Vol Chg: -1.02  Future Chg: 58.6
 Strike,Call,Put,Vol Settle
-4015,0,1,0.24314126819172088
 4020,0,13,0.24059687033150112
 4025,2,2,0.2381639658651693
 4030,3,1,0.2358464247899974
