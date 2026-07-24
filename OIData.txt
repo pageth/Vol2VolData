@@ -1,5 +1,5 @@
-Gold (OG|GC) OG4N6 (0.37 DTE) vs 4053.6 (+3.4) - Open Interest
-Put: 3,647  Call: 4,288  Vol: 29.01  Vol Chg: 0.14  Future Chg: 3.4
+Gold (OG|GC) OG4N6 (0.36 DTE) vs 4054.6 (+4.4) - Open Interest
+Put: 3,647  Call: 4,288  Vol: 29.01  Vol Chg: 0.14  Future Chg: 4.4
 Strike,Call,Put,Vol Settle
 3945,0,20,0.4046211456588935
 3950,1,543,0.39802346845499414
