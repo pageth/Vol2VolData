@@ -1,5 +1,5 @@
-Gold (OG|GC) OGQ6 (0.86 DTE) vs 4079 (+8.2) - Intraday Volume
-Put: 3,895  Call: 6,560  Vol: 19.62  Vol Chg: 3.69  Future Chg: 8.2
+Gold (OG|GC) OGQ6 (0.85 DTE) vs 4078.6 (+7.8) - Intraday Volume
+Put: 3,916  Call: 6,560  Vol: 19.62  Vol Chg: 3.69  Future Chg: 7.8
 Strike,Call,Put,Vol Settle
 3965,0,1,0.20305757441883543
 3970,1,5,0.2003681290880195
