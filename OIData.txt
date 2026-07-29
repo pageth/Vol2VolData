@@ -1,7 +1,6 @@
-Gold (OG|GC) G5WN6 (0.09 DTE) vs 4031 (-36.4) - Open Interest
-Put: 3,634  Call: 3,418  Vol: 21.61  Vol Chg: -1.87  Future Chg: -36.4
+Gold (OG|GC) G5WN6 (0.08 DTE) vs 4033.6 (-33.8) - Open Interest
+Put: 3,634  Call: 3,418  Vol: 20.60  Vol Chg: -2.88  Future Chg: -33.8
 Strike,Call,Put,Vol Settle
-3995,0,57,0.27444646647927584
 4000,7,243,0.2689595749361615
 4005,0,27,0.26361454570724163
 4010,0,94,0.25843931536655873
