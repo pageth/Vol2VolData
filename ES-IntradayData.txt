@@ -1,5 +1,5 @@
-S&P 500 (ES|ES) E1AQ6 (0.22 DTE) vs 7597 (+77.75) - Intraday Volume
-Put: 180,609  Call: 59,663  Vol: 10.91  Vol Chg: 5.00  Future Chg: 77.75
+S&P 500 (ES|ES) E1AQ6 (0.21 DTE) vs 7597 (+77.75) - Intraday Volume
+Put: 180,609  Call: 60,163  Vol: 10.55  Vol Chg: 4.64  Future Chg: 77.75
 Strike,Call,Put,Vol Settle
 7540,363,2586,0.0748359935314511
 7545,442,2400,0.07315059468965046
