@@ -1,5 +1,5 @@
-Gold (OG|GC) G1TQ6 (0.43 DTE) vs 4089 (+28.7) - Intraday Volume
-Put: 266  Call: 291  Vol: 20.98  Vol Chg: 0.00  Future Chg: 28.7
+Gold (OG|GC) G1TQ6 (0.42 DTE) vs 4090.1 (+29.8) - Intraday Volume
+Put: 268  Call: 291  Vol: 20.98  Vol Chg: 0.00  Future Chg: 29.8
 Strike,Call,Put,Vol Settle
 4005,0,2,0.235858290012402
 4010,0,13,0.2322760547249345
