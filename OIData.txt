@@ -1,6 +1,7 @@
-Gold (OG|GC) G1TQ6 (0.28 DTE) vs 4076.2 (+15.9) - Open Interest
-Put: 2,221  Call: 2,104  Vol: 24.38  Vol Chg: 3.44  Future Chg: 15.9
+Gold (OG|GC) G1TQ6 (0.28 DTE) vs 4075 (+14.7) - Open Interest
+Put: 2,221  Call: 2,104  Vol: 25.67  Vol Chg: 4.73  Future Chg: 14.7
 Strike,Call,Put,Vol Settle
+3990,0,30,0.24856724520213902
 3995,0,61,0.2439753993821796
 4000,0,89,0.23974910302786157
 4005,0,13,0.235858290012402
