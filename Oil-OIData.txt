@@ -1,5 +1,5 @@
-WTI Crude Oil (LO|CL) NL1Q6 (0.16 DTE) vs 76.16 (-4.18) - Open Interest
-Put: 1,914  Call: 4,089  Vol: 86.95  Vol Chg: 12.36  Future Chg: -4.18
+WTI Crude Oil (LO|CL) NL1Q6 (0.16 DTE) vs 76.17 (-4.17) - Open Interest
+Put: 1,914  Call: 4,089  Vol: 89.84  Vol Chg: 15.24  Future Chg: -4.17
 Strike,Call,Put,Vol Settle
 72.25,2,0,0
 72.5,0,46,0
@@ -34,3 +34,4 @@ Strike,Call,Put,Vol Settle
 79.75,21,4,0.6994936451385456
 80,123,241,0.7003240472859034
 80.25,12,8,0.7014676800822599
+80.5,44,14,0.702901864181058
