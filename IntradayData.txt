@@ -1,7 +1,6 @@
 Gold (OG|GC) G2MQ6 (0.17 DTE) vs 4360.5 (-6.6) - Intraday Volume
-Put: 684  Call: 602  Vol: 29.16  Vol Chg: 11.17  Future Chg: -6.6
+Put: 685  Call: 602  Vol: 28.34  Vol Chg: 10.42  Future Chg: -6.6
 Strike,Call,Put,Vol Settle
-4280,0,7,0.1843295922544712
 4285,0,9,0.18311493167675508
 4290,0,20,0.18203715498998463
 4295,0,20,0.18109268496118602
