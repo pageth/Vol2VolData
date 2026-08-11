@@ -1,5 +1,5 @@
 S&P 500 (ES|ES) E2BQ6 (0.21 DTE) vs 7783 (+6.25) - Intraday Volume
-Put: 55,857  Call: 47,817  Vol: 10.63  Vol Chg: 0.02  Future Chg: 6.25
+Put: 58,357  Call: 47,817  Vol: 10.54  Vol Chg: -0.07  Future Chg: 6.25
 Strike,Call,Put,Vol Settle
 7725,31,2636,0.1267179444548674
 7730,38,1720,0.12446695899416227
