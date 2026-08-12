@@ -1,7 +1,6 @@
-Gold (OG|GC) G2WQ6 (0.48 DTE) vs 4415.2 (+7) - Open Interest
-Put: 3,863  Call: 3,006  Vol: 34.39  Vol Chg: -0.07  Future Chg: 7
+Gold (OG|GC) G2WQ6 (0.47 DTE) vs 4418.3 (+10.1) - Open Interest
+Put: 3,863  Call: 3,006  Vol: 34.39  Vol Chg: -0.07  Future Chg: 10.1
 Strike,Call,Put,Vol Settle
-4255,0,1,0.4023342040272837
 4260,1,61,0.3984736015436283
 4265,0,2,0.3947182594883998
 4270,0,4,0.391071790551905
