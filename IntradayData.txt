@@ -1,7 +1,6 @@
-Gold (OG|GC) OG2Q6 (0.81 DTE) vs 4374.4 (-59.9) - Intraday Volume
+Gold (OG|GC) OG2Q6 (0.77 DTE) vs 4374.4 (-59.9) - Intraday Volume
 Put: 2,011  Call: 1,839  Vol: 24.69  Vol Chg: -3.12  Future Chg: -59.9
 Strike,Call,Put,Vol Settle
-4225,0,6,0.37125249389293913
 4230,0,3,0.36643476122299035
 4235,0,4,0.36172521647517897
 4240,0,136,0.35712477085542105
