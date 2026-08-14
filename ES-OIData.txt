@@ -1,5 +1,5 @@
-S&P 500 (ES|ES) EW2Q6 (0.05 DTE) vs 7801.25 (-21.25) - Open Interest
-Put: 271,710  Call: 179,990  Vol: 9.41  Vol Chg: -1.99  Future Chg: -21.25
+S&P 500 (ES|ES) EW2Q6 (0.05 DTE) vs 7804.25 (-18.25) - Open Interest
+Put: 271,710  Call: 179,990  Vol: 9.53  Vol Chg: -1.87  Future Chg: -18.25
 Strike,Call,Put,Vol Settle
 7780,642,832,0.12268211139598861
 7785,294,596,0.12056894827401266
