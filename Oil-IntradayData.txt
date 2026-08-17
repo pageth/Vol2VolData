@@ -1,7 +1,6 @@
-WTI Crude Oil (LO|CL) NL3Q6 (0.86 DTE) vs 84.1 (+2.63) - Intraday Volume
+WTI Crude Oil (LO|CL) NL3Q6 (0.81 DTE) vs 84.1 (+2.63) - Intraday Volume
 Put: 1,299  Call: 1,277  Vol: 48.47  Vol Chg: 4.49  Future Chg: 2.63
 Strike,Call,Put,Vol Settle
-78.5,0,37,0.43450853121692035
 78.75,0,19,0.4320639769060648
 79,31,28,0.4298997326855556
 79.25,10,3,0.4280140570708397
