@@ -1,5 +1,5 @@
-Gold (OG|GC) G3MQ6 (0.07 DTE) vs 4447.2 (+43.5) - Open Interest
-Put: 2,393  Call: 1,819  Vol: 18.74  Vol Chg: 5.06  Future Chg: 43.5
+Gold (OG|GC) G3MQ6 (0.06 DTE) vs 4443.6 (+39.9) - Open Interest
+Put: 2,393  Call: 1,819  Vol: 18.61  Vol Chg: 4.92  Future Chg: 39.9
 Strike,Call,Put,Vol Settle
 4415,12,3,0.13550887587089733
 4420,30,3,0.1355263034172367
@@ -14,4 +14,3 @@ Strike,Call,Put,Vol Settle
 4465,25,0,0.14100639733840126
 4470,14,0,0.14222720072774564
 4475,51,1,0.1435745783708171
-4480,23,0,0.14504970311020315
