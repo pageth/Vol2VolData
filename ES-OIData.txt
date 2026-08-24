@@ -1,5 +1,5 @@
-S&P 500 (ES|ES) E4AQ6 (0.30 DTE) vs 7677.75 (-13.5) - Open Interest
-Put: 157,777  Call: 34,342  Vol: 14.55  Vol Chg: 7.74  Future Chg: -13.5
+S&P 500 (ES|ES) E4AQ6 (0.29 DTE) vs 7676 (-15.25) - Open Interest
+Put: 157,777  Call: 34,342  Vol: 14.45  Vol Chg: 7.64  Future Chg: -15.25
 Strike,Call,Put,Vol Settle
 7585,7,708,0.0934608698298689
 7590,20,440,0.09193290203984361
