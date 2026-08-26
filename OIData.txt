@@ -1,6 +1,7 @@
-Gold (OG|GC) OGU6 (0.51 DTE) vs 4665.9 (+7.7) - Open Interest
-Put: 62,744  Call: 93,026  Vol: 25.28  Vol Chg: -0.05  Future Chg: 7.7
+Gold (OG|GC) OGU6 (0.50 DTE) vs 4663.5 (+5.3) - Open Interest
+Put: 62,744  Call: 93,026  Vol: 25.28  Vol Chg: -0.05  Future Chg: 5.3
 Strike,Call,Put,Vol Settle
+4535,321,14,0.3109276323502854
 4540,74,43,0.30600447453434754
 4545,289,19,0.30124800096564286
 4550,1374,746,0.2966668807403039
