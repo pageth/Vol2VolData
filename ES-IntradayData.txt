@@ -1,5 +1,5 @@
 S&P 500 (ES|ES) EW4Q6 (0.10 DTE) vs 7717.25 (-25.25) - Intraday Volume
-Put: 256,270  Call: 139,120  Vol: 17.64  Vol Chg: 2.85  Future Chg: -25.25
+Put: 256,270  Call: 141,120  Vol: 17.81  Vol Chg: 2.80  Future Chg: -25.25
 Strike,Call,Put,Vol Settle
 7655,11,8348,0.17241509933955967
 7660,15,2849,0.17083193565486
