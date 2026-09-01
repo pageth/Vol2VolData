@@ -1,5 +1,5 @@
-Gold (OG|GC) G1WU6 (0.96 DTE) vs 4351.8 (-95) - Open Interest
-Put: 3,949  Call: 3,339  Vol: 24.11  Vol Chg: -1.27  Future Chg: -95
+Gold (OG|GC) G1WU6 (0.96 DTE) vs 4351.3 (-95.5) - Open Interest
+Put: 3,949  Call: 3,339  Vol: 24.24  Vol Chg: -1.13  Future Chg: -95.5
 Strike,Call,Put,Vol Settle
 4195,0,0,0
 4200,7,76,0
