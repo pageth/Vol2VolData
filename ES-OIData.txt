@@ -1,5 +1,5 @@
-S&P 500 (ES|ES) E1DU6 (0.50 DTE) vs 7682.5 (+6) - Open Interest
-Put: 134,984  Call: 22,354  Vol: 13.06  Vol Chg: -0.04  Future Chg: 6
+S&P 500 (ES|ES) E1DU6 (0.49 DTE) vs 7684.75 (+8.25) - Open Interest
+Put: 134,984  Call: 22,354  Vol: 13.06  Vol Chg: -0.04  Future Chg: 8.25
 Strike,Call,Put,Vol Settle
 7575,23,669,0.1571307607810013
 7580,25,126,0.1555734551511705
@@ -45,3 +45,4 @@ Strike,Call,Put,Vol Settle
 7780,268,83,0.12115628004539758
 7785,379,1,0
 7790,255,4,0
+7795,307,1,0
