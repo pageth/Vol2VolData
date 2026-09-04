@@ -1,7 +1,6 @@
 S&P 500 (ES|ES) EW1U6 (0.63 DTE) vs 7760 (+5.25) - Intraday Volume
-Put: 4,484  Call: 15,200  Vol: 12.48  Vol Chg: -0.01  Future Chg: 5.25
+Put: 4,489  Call: 15,200  Vol: 12.48  Vol Chg: -0.01  Future Chg: 5.25
 Strike,Call,Put,Vol Settle
-7640,0,0,0.1693601761435275
 7645,0,15,0.1668764527858002
 7650,4,63,0.16443228602292947
 7655,0,0,0.16202773746772436
